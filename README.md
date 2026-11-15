@@ -8,7 +8,7 @@ The project uses **Excel and Power Query** for data preparation, **PostgreSQL an
 
 1. **[GitHub Repository](https://github.com/martinmragui-prog/Gen-Data-Capstone/tree/main)** — project source files, datasets, SQL scripts, and documentation.
 2. **[Live Tableau Dashboard](https://public.tableau.com/app/profile/martin.mbugua/viz/Tableau_Gen_Data_Dashboard1/RetailSalesDashboard)** — interactive dashboards covering sales, products, inventory, and returns.
-3. **[CRISP-DM Presentation — View Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmartinmragui-prog%2FGen-Data-Capstone%2Fmain%2FPowerPoint%2520Slides%2FRetail%2520Sales%252C%2520Inventory%2520%2526%2520Business%2520Performance%2520Analysis.pptx)** — opens the PowerPoint presentation in the browser. The original file is in [`PowerPoint Slides`](https://github.com/martinmragui-prog/Gen-Data-Capstone/tree/main/PowerPoint%20Slides).
+3. **[CRISP-DM Presentation — View Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmartinmragui-prog%2FGen-Data-Capstone%2Fmain%2FPowerPoint%2520Slides%2FRetail%2520Sales%252C%2520Inventory%2520%2526%2520Business%2520Performance%2520Analysis.pptx)** — opens the PowerPoint presentation. The original file is in [`PowerPoint Slides`](https://github.com/martinmragui-prog/Gen-Data-Capstone/tree/main/PowerPoint%20Slides).
 4. **[Published Substack Article](https://mattragui.substack.com/p/turning-125749-retail-sales-records)** — project insights, findings, and business recommendations.
 
 ## Research question
