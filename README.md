@@ -9,7 +9,7 @@ The project uses **Excel and Power Query** for data preparation, **PostgreSQL an
 1. **[GitHub Repository](https://github.com/martinmragui-prog/Gen-Data-Capstone/tree/main)** — project source files, datasets, SQL scripts, and documentation.
 2. **[Live Tableau Dashboard](https://public.tableau.com/app/profile/martin.mbugua/viz/Tableau_Gen_Data_Dashboard1/RetailSalesDashboard)** — interactive dashboards covering sales, products, inventory, and returns.
 3. **[CRISP-DM Presentation](YOUR_PRESENTATION_LINK)** — project methodology, analysis, findings, and recommendations.
-4. **[Published Substack Article](YOUR_SUBSTACK_LINK)** — project insights, findings, and business recommendations.
+4. **[Published Substack Article](https://mattragui.substack.com/p/cleaning-understanding-and-questioning)** — project insights, findings, and business recommendations.
 
 ## Research question
 
