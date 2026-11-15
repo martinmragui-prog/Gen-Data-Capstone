@@ -1,0 +1,6 @@
+"Sales Type","Sales Channel","total_sales","units_sold","gross_profit"
+Clearance,Channel Alpha,17408.76,1499.00,-13681.57
+Full Price,Channel Alpha,8896456.66,87259.00,4294886.79
+Markdown Tier 1,Channel Alpha,177712.44,4025.00,12751.19
+Markdown Tier 2,Channel Alpha,77602.53,2367.00,-10058.53
+Promo,Channel Alpha,1312929.86,21845.00,350461.27
