@@ -1,6 +1,6 @@
 # Retail Sales and Inventory Analytics: Turning Data into Business Insights
 
-This capstone analyses retail sales and inventory data to understand revenue, profitability, product performance, returns, and stock levels. It follows the six **CRISP-DM** phases, from business understanding to deployment.
+This capstone analyses retail sales and inventory data to understand revenue, profitability, product performance, returns, and stock levels. It follows the six **CRISP-DM** phases, from business understanding through deployment.
 
 The project uses **Excel and Power Query** for data preparation, **PostgreSQL and DBeaver** for data storage and SQL analysis, and **Tableau** for interactive dashboards.
 
@@ -8,7 +8,7 @@ The project uses **Excel and Power Query** for data preparation, **PostgreSQL an
 
 1. **[GitHub Repository](https://github.com/martinmragui-prog/Gen-Data-Capstone/tree/main)** — project source files, datasets, SQL scripts, and documentation.
 2. **[Live Tableau Dashboard](https://public.tableau.com/app/profile/martin.mbugua/viz/Tableau_Gen_Data_Dashboard1/RetailSalesDashboard)** — interactive dashboards covering sales, products, inventory, and returns.
-3. **[CRISP-DM Presentation](YOUR_PRESENTATION_LINK)** — project methodology, analysis, findings, and recommendations.
+3. **[CRISP-DM Presentation](https://github.com/martinmragui-prog/Gen-Data-Capstone/blob/main/presentation.html)** — project methodology, analysis, findings, and recommendations.
 4. **[Published Substack Article](https://mattragui.substack.com/p/turning-125749-retail-sales-records)** — project insights, findings, and business recommendations.
 
 ## Research question
@@ -101,6 +101,6 @@ Connect Tableau Desktop to PostgreSQL using **Connect → To a Server → Postgr
 
 ## Limitations and conclusion
 
-The analysis is limited to the supplied datasets and their date coverage. Customer-level analysis is outside the project scope because customer IDs are not available. Findings describe observed patterns and should not be interpreted as proof of cause and effect.
+The analysis is limited to the supplied datasets and their date coverage. Customer-level analysis is outside the project scope because customer IDs are not available. Findings describe observed patterns and trends in the provided data.
 
 Overall, this project demonstrates an end-to-end retail analytics process, combining Excel, Power Query, PostgreSQL, SQL, and Tableau to generate insights that support better-informed retail business decisions.
