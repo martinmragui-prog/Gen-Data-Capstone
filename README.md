@@ -6,7 +6,7 @@ The project uses **Excel and Power Query** for data preparation, **PostgreSQL an
 
 ## Capstone deliverables
 
-1. **[GitHub Repository](YOUR_GITHUB_LINK)** — project source files, datasets, SQL scripts, and documentation.
+1. **[GitHub Repository](https://github.com/martinmragui-prog/Gen-Data-Capstone/tree/main)** — project source files, datasets, SQL scripts, and documentation.
 2. **[Live Tableau Dashboard](YOUR_TABLEAU_LINK)** — interactive dashboards covering sales, products, inventory, and returns.
 3. **[CRISP-DM Presentation](YOUR_PRESENTATION_LINK)** — project methodology, analysis, findings, and recommendations.
 4. **[Published Substack Article](YOUR_SUBSTACK_LINK)** — project insights, findings, and business recommendations.
